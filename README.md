@@ -8,5 +8,5 @@
 
 ---
 
-![Uploading PID - P게인 발표자료.png…](./pid_p_gain.png)
+![Uploading PID - P게인 발표자료.png…](./PID-P게인 발표자료.png)
 

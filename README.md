@@ -7,3 +7,5 @@
 또한 교육 2일차때, PID Control에서 P Gain 설명을 맡게 되어 추가로 정리하였습니다.
 
 ---
+
+![Uploading PID - P게인 발표자료.png…]()

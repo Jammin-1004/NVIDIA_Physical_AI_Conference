@@ -11,3 +11,6 @@
 # PID Gain - What Is P?
 ![PID P게인 발표자료](./PID%20-%20P게인%20발표자료.png)
 
+---
+# Conference
+ Unitree G1 Loco-manipulation (Pick-Up)
